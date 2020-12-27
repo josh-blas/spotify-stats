@@ -1,9 +1,5 @@
 import datetime
-
-
 import json
-
-
 import glob
 
 result = []
@@ -538,9 +534,7 @@ LOA1.sort_artists_count_4weeks()
 LOA2.sort_artists_count_6months()
 LOA3.sort_artists_count_year()
 LOA4.sort_artists_hrs_alltime()
-# LOA.display_artists()
-# LOA.sort_artists_count()
-# LOA.sort_artists_time()
+
 
 
 LOT1 = ListOfTrack()
@@ -555,7 +549,7 @@ LOT1.sort_tracks_count_4weeks()
 LOT2.sort_tracks_count_6months()
 LOT3.sort_tracks_count_year()
 LOT4.sort_tracks_hrs_alltime()
-# LOT.display_tracks()
+
 
 
 LOTD = ListOfTrack()
