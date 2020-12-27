@@ -3,8 +3,6 @@ import json
 import glob
 
 result = []
-
-
 def combiner(lof):
     for k in range(0, len(lof)):
 
