@@ -1,4 +1,4 @@
-# Spotify Program
+# Spotify Statistics Program
 
 Most of the personal data that Spotify has about you is accessible through the Spotify app (e.g. playlists, search queries, followers, and streaming history).
 You can download a consolidated copy of this data from the Spotify website.
