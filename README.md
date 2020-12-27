@@ -6,6 +6,6 @@ This data will include .csv files with your streaming history, including what yo
 This program provides a detailed summary of your listening history in a ranking format.
 Included in this folder are five of my .json streaming history files (0-4).
 You can replace these five files for your own five identically named files (0-4).
-Then running the program will give you multiple rankings on your top artists and songs over four different time periods as well as your most recently played music.
+Then running the program will give you multiple rankings on your top artists and songs over four different lengths of time as well as your most recently played music.
 The songs/artists are ranked by either play count or play time.
 The rankings include the song/artist title, as well as the play count for the song/artist and/or the play time listened in hours.
